@@ -1,4 +1,4 @@
-:HL["/chola-pipes-demo/_next/static/chunks/24cgbjlrdzcfu.css","style"]
+:HL["/chola-pipes-demo/_next/static/chunks/25os72r9n9m_n.css","style"]
 :HL["/chola-pipes-demo/fonts/fonts.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"Y4Zoruu7vonxPCJ858Xww","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"yFyiJkjY4vPjP3AmHIp8v","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
