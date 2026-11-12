@@ -1,0 +1,5 @@
+:HL["/chola-pipes-demo/_next/static/chunks/0ltne-q65nuo8.css","style"]
+:HL["/chola-pipes-demo/fonts/fonts.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"idOS8_K6dxfVfeSTNN8kJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
